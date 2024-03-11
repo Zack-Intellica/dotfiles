@@ -77,17 +77,15 @@ $(brew --prefix)/bin/npm install --global prettier
 apps=(
     "google-chrome"
     "firefox"
-    "brave-browser"
     "sublime-text"
     "visual-studio-code"
     "virtualbox"
-    "spotify"
     "discord"
-    "google-drive"
     "gimp"
     "vlc"
     "rectangle"
     "postman"
+    "powershell"
 )
 
 # Loop over the array to install each application.
