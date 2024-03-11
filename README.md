@@ -2,11 +2,12 @@
 
 This repository contains scripts and configuration files to set up a development environment for macOS. It's tailored for software development, focusing on a clean, minimal, and efficient setup.
 
+<!--
 ## YouTube Video Walkthrough
 
 I will provide a video walkthrough of these dotfiles here once that video is recorded and published
 
-<!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+ [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 Replace `VIDEO_ID` with your video's ID to embed the walkthrough video here. -->
 
